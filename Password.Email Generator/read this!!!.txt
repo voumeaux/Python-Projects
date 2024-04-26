@@ -1,0 +1,3 @@
+This code is meant to serve as a basic character generator for emails and passwords, I made this early on in my python journey. This code needs some improvemnts most notably instead of a fixed number make it rely on user input. 
+
+It's just a small program, have fun!
